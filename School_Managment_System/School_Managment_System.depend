@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1684950824 source:c:\users\saif elden\desktop\project\school_managment_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1684950838 source:c:\users\saif elden\desktop\project\school_managment_system\student.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"Student.h"
+
+1684946360 c:\users\saif elden\desktop\project\school_managment_system\std_types.h
+
+1684946360 c:\users\saif elden\desktop\project\school_managment_system\config.h
+
+1684950851 c:\users\saif elden\desktop\project\school_managment_system\student.h
+
+1685005311 source:c:\users\saif elden\desktop\school_managment_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"STD_TYPES.h"
+	"Student.h"
+
+1685005458 source:c:\users\saif elden\desktop\school_managment_system\student.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"Student.h"
+
+1685005292 c:\users\saif elden\desktop\school_managment_system\std_types.h
+
+1685003723 c:\users\saif elden\desktop\school_managment_system\config.h
+
+1685005479 c:\users\saif elden\desktop\school_managment_system\student.h
+
+1685013035 source:c:\users\saif elden\desktop\school_managment_system - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"Student.h"
+
+1685005292 c:\users\saif elden\desktop\school_managment_system - copy\std_types.h
+
+1685014104 c:\users\saif elden\desktop\school_managment_system - copy\student.h
+
+1685013209 source:c:\users\saif elden\desktop\school_managment_system - copy\student.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"Student.h"
+
+1685013159 c:\users\saif elden\desktop\school_managment_system - copy\config.h
+
+1685013035 source:d:\mahmoud\nti\embedded c\final project\school_managment_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"Student.h"
+
+1685005292 d:\mahmoud\nti\embedded c\final project\school_managment_system\std_types.h
+
+1685013159 d:\mahmoud\nti\embedded c\final project\school_managment_system\config.h
+
+1685014104 d:\mahmoud\nti\embedded c\final project\school_managment_system\student.h
+
+1685013209 source:d:\mahmoud\nti\embedded c\final project\school_managment_system\student.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"Student.h"
+
+1685013035 source:d:\mahmoud\nti (1 month)\embedded c\final project\school_managment_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"Student.h"
+
+1685005292 d:\mahmoud\nti (1 month)\embedded c\final project\school_managment_system\std_types.h
+
+1685013159 d:\mahmoud\nti (1 month)\embedded c\final project\school_managment_system\config.h
+
+1685014104 d:\mahmoud\nti (1 month)\embedded c\final project\school_managment_system\student.h
+
+1685013209 source:d:\mahmoud\nti (1 month)\embedded c\final project\school_managment_system\student.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"Student.h"
+
